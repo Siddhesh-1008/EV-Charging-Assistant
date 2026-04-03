@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c1",
+    "name": "Tata Nexon EV",
+    "batteryCapacity": 40.5,
+    "maxRange": 300,
+    "avgSpeed": 60,
+    "icon": "🚙"
+  },
+  {
+    "id": "c2",
+    "name": "MG ZS EV",
+    "batteryCapacity": 50.3,
+    "maxRange": 420,
+    "avgSpeed": 65,
+    "icon": "🚗"
+  },
+  {
+    "id": "c3",
+    "name": "Tesla Model 3",
+    "batteryCapacity": 60.0,
+    "maxRange": 500,
+    "avgSpeed": 70,
+    "icon": "🚘"
+  },
+  {
+    "id": "c4",
+    "name": "Hyundai Ioniq 5",
+    "batteryCapacity": 72.6,
+    "maxRange": 480,
+    "avgSpeed": 65,
+    "icon": "🏎️"
+  },
+  {
+    "id": "c5",
+    "name": "Mahindra XUV400",
+    "batteryCapacity": 39.4,
+    "maxRange": 350,
+    "avgSpeed": 60,
+    "icon": "🚙"
+  }
+]
